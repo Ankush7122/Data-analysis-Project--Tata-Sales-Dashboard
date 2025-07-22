@@ -51,24 +51,6 @@ Our Tata Sales Dashboard solves these challenges by:
 
 ---
 
-## File Structure
-kotlin
-Copy code
-TATA-Sales-Dashboard/
-│
-├── data/
-│   └── sales_data.xlsx
-│
-├── dashboard/
-│   └── tata_dashboard.pbix
-│
-├── assets/
-│   └── screenshots/
-│
-└── README.md
-
----
-
 ## How to Use
 -Open the .pbix file in Power BI Desktop.
 
@@ -85,20 +67,3 @@ TATA-Sales-Dashboard/
 
 ## Contributing
 If you'd like to improve this project or add new features, feel free to fork the repo and submit a pull request.
-
-
-
-
-
-
-
-
-
-
-
-
-Tools
-
-
-
-ChatGPT can make mistakes. Check important info. See Cookie
